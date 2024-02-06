@@ -10,7 +10,7 @@ RN app using expo
 
 ### Dependencies
 
--   Requiere un ambiente desarollo para Android Studio
+-   Android Studio
 -   Node.js v14+
 -   JavaKit 11
 
